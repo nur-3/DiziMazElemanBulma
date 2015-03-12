@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\maxEleman\maxEleman\bin\Debug\maxEleman.exe.config
+c:\users\user\documents\visual studio 2012\Projects\maxEleman\maxEleman\bin\Debug\maxEleman.exe
+c:\users\user\documents\visual studio 2012\Projects\maxEleman\maxEleman\bin\Debug\maxEleman.pdb
+c:\users\user\documents\visual studio 2012\Projects\maxEleman\maxEleman\obj\Debug\maxEleman.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\maxEleman\maxEleman\obj\Debug\maxEleman.exe
+c:\users\user\documents\visual studio 2012\Projects\maxEleman\maxEleman\obj\Debug\maxEleman.pdb
